@@ -129,6 +129,174 @@ hitboxtests/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hitboxtests.dir/build.make CMakeFiles/hitboxtests.dir/build
 .PHONY : hitboxtests/fast
 
+src/gfx/camera/camera.o: src/gfx/camera/camera.c.o
+.PHONY : src/gfx/camera/camera.o
+
+# target to build an object file
+src/gfx/camera/camera.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hitboxtests.dir/build.make CMakeFiles/hitboxtests.dir/src/gfx/camera/camera.c.o
+.PHONY : src/gfx/camera/camera.c.o
+
+src/gfx/camera/camera.i: src/gfx/camera/camera.c.i
+.PHONY : src/gfx/camera/camera.i
+
+# target to preprocess a source file
+src/gfx/camera/camera.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hitboxtests.dir/build.make CMakeFiles/hitboxtests.dir/src/gfx/camera/camera.c.i
+.PHONY : src/gfx/camera/camera.c.i
+
+src/gfx/camera/camera.s: src/gfx/camera/camera.c.s
+.PHONY : src/gfx/camera/camera.s
+
+# target to generate assembly for a file
+src/gfx/camera/camera.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hitboxtests.dir/build.make CMakeFiles/hitboxtests.dir/src/gfx/camera/camera.c.s
+.PHONY : src/gfx/camera/camera.c.s
+
+src/gfx/shader/shader.o: src/gfx/shader/shader.c.o
+.PHONY : src/gfx/shader/shader.o
+
+# target to build an object file
+src/gfx/shader/shader.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hitboxtests.dir/build.make CMakeFiles/hitboxtests.dir/src/gfx/shader/shader.c.o
+.PHONY : src/gfx/shader/shader.c.o
+
+src/gfx/shader/shader.i: src/gfx/shader/shader.c.i
+.PHONY : src/gfx/shader/shader.i
+
+# target to preprocess a source file
+src/gfx/shader/shader.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hitboxtests.dir/build.make CMakeFiles/hitboxtests.dir/src/gfx/shader/shader.c.i
+.PHONY : src/gfx/shader/shader.c.i
+
+src/gfx/shader/shader.s: src/gfx/shader/shader.c.s
+.PHONY : src/gfx/shader/shader.s
+
+# target to generate assembly for a file
+src/gfx/shader/shader.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hitboxtests.dir/build.make CMakeFiles/hitboxtests.dir/src/gfx/shader/shader.c.s
+.PHONY : src/gfx/shader/shader.c.s
+
+src/gfx/texture/texture.o: src/gfx/texture/texture.c.o
+.PHONY : src/gfx/texture/texture.o
+
+# target to build an object file
+src/gfx/texture/texture.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hitboxtests.dir/build.make CMakeFiles/hitboxtests.dir/src/gfx/texture/texture.c.o
+.PHONY : src/gfx/texture/texture.c.o
+
+src/gfx/texture/texture.i: src/gfx/texture/texture.c.i
+.PHONY : src/gfx/texture/texture.i
+
+# target to preprocess a source file
+src/gfx/texture/texture.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hitboxtests.dir/build.make CMakeFiles/hitboxtests.dir/src/gfx/texture/texture.c.i
+.PHONY : src/gfx/texture/texture.c.i
+
+src/gfx/texture/texture.s: src/gfx/texture/texture.c.s
+.PHONY : src/gfx/texture/texture.s
+
+# target to generate assembly for a file
+src/gfx/texture/texture.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hitboxtests.dir/build.make CMakeFiles/hitboxtests.dir/src/gfx/texture/texture.c.s
+.PHONY : src/gfx/texture/texture.c.s
+
+src/gfx/utils/EBO.o: src/gfx/utils/EBO.c.o
+.PHONY : src/gfx/utils/EBO.o
+
+# target to build an object file
+src/gfx/utils/EBO.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hitboxtests.dir/build.make CMakeFiles/hitboxtests.dir/src/gfx/utils/EBO.c.o
+.PHONY : src/gfx/utils/EBO.c.o
+
+src/gfx/utils/EBO.i: src/gfx/utils/EBO.c.i
+.PHONY : src/gfx/utils/EBO.i
+
+# target to preprocess a source file
+src/gfx/utils/EBO.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hitboxtests.dir/build.make CMakeFiles/hitboxtests.dir/src/gfx/utils/EBO.c.i
+.PHONY : src/gfx/utils/EBO.c.i
+
+src/gfx/utils/EBO.s: src/gfx/utils/EBO.c.s
+.PHONY : src/gfx/utils/EBO.s
+
+# target to generate assembly for a file
+src/gfx/utils/EBO.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hitboxtests.dir/build.make CMakeFiles/hitboxtests.dir/src/gfx/utils/EBO.c.s
+.PHONY : src/gfx/utils/EBO.c.s
+
+src/gfx/utils/VAO.o: src/gfx/utils/VAO.c.o
+.PHONY : src/gfx/utils/VAO.o
+
+# target to build an object file
+src/gfx/utils/VAO.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hitboxtests.dir/build.make CMakeFiles/hitboxtests.dir/src/gfx/utils/VAO.c.o
+.PHONY : src/gfx/utils/VAO.c.o
+
+src/gfx/utils/VAO.i: src/gfx/utils/VAO.c.i
+.PHONY : src/gfx/utils/VAO.i
+
+# target to preprocess a source file
+src/gfx/utils/VAO.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hitboxtests.dir/build.make CMakeFiles/hitboxtests.dir/src/gfx/utils/VAO.c.i
+.PHONY : src/gfx/utils/VAO.c.i
+
+src/gfx/utils/VAO.s: src/gfx/utils/VAO.c.s
+.PHONY : src/gfx/utils/VAO.s
+
+# target to generate assembly for a file
+src/gfx/utils/VAO.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hitboxtests.dir/build.make CMakeFiles/hitboxtests.dir/src/gfx/utils/VAO.c.s
+.PHONY : src/gfx/utils/VAO.c.s
+
+src/gfx/utils/VBO.o: src/gfx/utils/VBO.c.o
+.PHONY : src/gfx/utils/VBO.o
+
+# target to build an object file
+src/gfx/utils/VBO.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hitboxtests.dir/build.make CMakeFiles/hitboxtests.dir/src/gfx/utils/VBO.c.o
+.PHONY : src/gfx/utils/VBO.c.o
+
+src/gfx/utils/VBO.i: src/gfx/utils/VBO.c.i
+.PHONY : src/gfx/utils/VBO.i
+
+# target to preprocess a source file
+src/gfx/utils/VBO.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hitboxtests.dir/build.make CMakeFiles/hitboxtests.dir/src/gfx/utils/VBO.c.i
+.PHONY : src/gfx/utils/VBO.c.i
+
+src/gfx/utils/VBO.s: src/gfx/utils/VBO.c.s
+.PHONY : src/gfx/utils/VBO.s
+
+# target to generate assembly for a file
+src/gfx/utils/VBO.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hitboxtests.dir/build.make CMakeFiles/hitboxtests.dir/src/gfx/utils/VBO.c.s
+.PHONY : src/gfx/utils/VBO.c.s
+
+src/gfx/window/window.o: src/gfx/window/window.c.o
+.PHONY : src/gfx/window/window.o
+
+# target to build an object file
+src/gfx/window/window.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hitboxtests.dir/build.make CMakeFiles/hitboxtests.dir/src/gfx/window/window.c.o
+.PHONY : src/gfx/window/window.c.o
+
+src/gfx/window/window.i: src/gfx/window/window.c.i
+.PHONY : src/gfx/window/window.i
+
+# target to preprocess a source file
+src/gfx/window/window.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hitboxtests.dir/build.make CMakeFiles/hitboxtests.dir/src/gfx/window/window.c.i
+.PHONY : src/gfx/window/window.c.i
+
+src/gfx/window/window.s: src/gfx/window/window.c.s
+.PHONY : src/gfx/window/window.s
+
+# target to generate assembly for a file
+src/gfx/window/window.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hitboxtests.dir/build.make CMakeFiles/hitboxtests.dir/src/gfx/window/window.c.s
+.PHONY : src/gfx/window/window.c.s
+
 src/glad.o: src/glad.c.o
 .PHONY : src/glad.o
 
@@ -210,6 +378,27 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... hitboxtests"
+	@echo "... src/gfx/camera/camera.o"
+	@echo "... src/gfx/camera/camera.i"
+	@echo "... src/gfx/camera/camera.s"
+	@echo "... src/gfx/shader/shader.o"
+	@echo "... src/gfx/shader/shader.i"
+	@echo "... src/gfx/shader/shader.s"
+	@echo "... src/gfx/texture/texture.o"
+	@echo "... src/gfx/texture/texture.i"
+	@echo "... src/gfx/texture/texture.s"
+	@echo "... src/gfx/utils/EBO.o"
+	@echo "... src/gfx/utils/EBO.i"
+	@echo "... src/gfx/utils/EBO.s"
+	@echo "... src/gfx/utils/VAO.o"
+	@echo "... src/gfx/utils/VAO.i"
+	@echo "... src/gfx/utils/VAO.s"
+	@echo "... src/gfx/utils/VBO.o"
+	@echo "... src/gfx/utils/VBO.i"
+	@echo "... src/gfx/utils/VBO.s"
+	@echo "... src/gfx/window/window.o"
+	@echo "... src/gfx/window/window.i"
+	@echo "... src/gfx/window/window.s"
 	@echo "... src/glad.o"
 	@echo "... src/glad.i"
 	@echo "... src/glad.s"

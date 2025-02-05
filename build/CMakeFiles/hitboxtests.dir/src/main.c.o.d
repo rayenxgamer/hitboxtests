@@ -14,4 +14,13 @@ CMakeFiles/hitboxtests.dir/src/main.c.o: \
  /usr/include/bits/types/FILE.h /usr/include/bits/types/struct_FILE.h \
  /usr/include/bits/types/cookie_io_functions_t.h \
  /usr/include/bits/stdio_lim.h /usr/include/bits/floatn.h \
- /usr/include/bits/floatn-common.h
+ /usr/include/bits/floatn-common.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdbool.h \
+ /home/ray/C/Projects/hitboxtests/lib/glad/glad.h \
+ /usr/include/KHR/khrplatform.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/bits/stdint-intn.h /usr/include/bits/stdint-uintn.h \
+ /usr/include/bits/stdint-least.h \
+ /home/ray/C/Projects/hitboxtests/lib/glfw/glfw3.h \
+ /home/ray/C/Projects/hitboxtests/src/gfx/window/window.h

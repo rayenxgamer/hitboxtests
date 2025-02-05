@@ -5,6 +5,13 @@ hitboxtests: \
   CMakeFiles/hitboxtests.dir/src/main.c.o \
   CMakeFiles/hitboxtests.dir/src/glad.c.o \
   CMakeFiles/hitboxtests.dir/src/stbimage.c.o \
+  CMakeFiles/hitboxtests.dir/src/gfx/utils/VAO.c.o \
+  CMakeFiles/hitboxtests.dir/src/gfx/utils/VBO.c.o \
+  CMakeFiles/hitboxtests.dir/src/gfx/utils/EBO.c.o \
+  CMakeFiles/hitboxtests.dir/src/gfx/camera/camera.c.o \
+  CMakeFiles/hitboxtests.dir/src/gfx/shader/shader.c.o \
+  CMakeFiles/hitboxtests.dir/src/gfx/window/window.c.o \
+  CMakeFiles/hitboxtests.dir/src/gfx/texture/texture.c.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libglfw.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libm.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libm.so \
@@ -46,6 +53,20 @@ CMakeFiles/hitboxtests.dir/src/main.c.o:
 CMakeFiles/hitboxtests.dir/src/glad.c.o:
 
 CMakeFiles/hitboxtests.dir/src/stbimage.c.o:
+
+CMakeFiles/hitboxtests.dir/src/gfx/utils/VAO.c.o:
+
+CMakeFiles/hitboxtests.dir/src/gfx/utils/VBO.c.o:
+
+CMakeFiles/hitboxtests.dir/src/gfx/utils/EBO.c.o:
+
+CMakeFiles/hitboxtests.dir/src/gfx/camera/camera.c.o:
+
+CMakeFiles/hitboxtests.dir/src/gfx/shader/shader.c.o:
+
+CMakeFiles/hitboxtests.dir/src/gfx/window/window.c.o:
+
+CMakeFiles/hitboxtests.dir/src/gfx/texture/texture.c.o:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libglfw.so:
 

@@ -114,11 +114,116 @@ CMakeFiles/hitboxtests.dir/src/stbimage.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/hitboxtests.dir/src/stbimage.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ray/C/Projects/hitboxtests/src/stbimage.c -o CMakeFiles/hitboxtests.dir/src/stbimage.c.s
 
+CMakeFiles/hitboxtests.dir/src/gfx/utils/VAO.c.o: CMakeFiles/hitboxtests.dir/flags.make
+CMakeFiles/hitboxtests.dir/src/gfx/utils/VAO.c.o: /home/ray/C/Projects/hitboxtests/src/gfx/utils/VAO.c
+CMakeFiles/hitboxtests.dir/src/gfx/utils/VAO.c.o: CMakeFiles/hitboxtests.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ray/C/Projects/hitboxtests/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/hitboxtests.dir/src/gfx/utils/VAO.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hitboxtests.dir/src/gfx/utils/VAO.c.o -MF CMakeFiles/hitboxtests.dir/src/gfx/utils/VAO.c.o.d -o CMakeFiles/hitboxtests.dir/src/gfx/utils/VAO.c.o -c /home/ray/C/Projects/hitboxtests/src/gfx/utils/VAO.c
+
+CMakeFiles/hitboxtests.dir/src/gfx/utils/VAO.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/hitboxtests.dir/src/gfx/utils/VAO.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ray/C/Projects/hitboxtests/src/gfx/utils/VAO.c > CMakeFiles/hitboxtests.dir/src/gfx/utils/VAO.c.i
+
+CMakeFiles/hitboxtests.dir/src/gfx/utils/VAO.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/hitboxtests.dir/src/gfx/utils/VAO.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ray/C/Projects/hitboxtests/src/gfx/utils/VAO.c -o CMakeFiles/hitboxtests.dir/src/gfx/utils/VAO.c.s
+
+CMakeFiles/hitboxtests.dir/src/gfx/utils/VBO.c.o: CMakeFiles/hitboxtests.dir/flags.make
+CMakeFiles/hitboxtests.dir/src/gfx/utils/VBO.c.o: /home/ray/C/Projects/hitboxtests/src/gfx/utils/VBO.c
+CMakeFiles/hitboxtests.dir/src/gfx/utils/VBO.c.o: CMakeFiles/hitboxtests.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ray/C/Projects/hitboxtests/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/hitboxtests.dir/src/gfx/utils/VBO.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hitboxtests.dir/src/gfx/utils/VBO.c.o -MF CMakeFiles/hitboxtests.dir/src/gfx/utils/VBO.c.o.d -o CMakeFiles/hitboxtests.dir/src/gfx/utils/VBO.c.o -c /home/ray/C/Projects/hitboxtests/src/gfx/utils/VBO.c
+
+CMakeFiles/hitboxtests.dir/src/gfx/utils/VBO.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/hitboxtests.dir/src/gfx/utils/VBO.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ray/C/Projects/hitboxtests/src/gfx/utils/VBO.c > CMakeFiles/hitboxtests.dir/src/gfx/utils/VBO.c.i
+
+CMakeFiles/hitboxtests.dir/src/gfx/utils/VBO.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/hitboxtests.dir/src/gfx/utils/VBO.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ray/C/Projects/hitboxtests/src/gfx/utils/VBO.c -o CMakeFiles/hitboxtests.dir/src/gfx/utils/VBO.c.s
+
+CMakeFiles/hitboxtests.dir/src/gfx/utils/EBO.c.o: CMakeFiles/hitboxtests.dir/flags.make
+CMakeFiles/hitboxtests.dir/src/gfx/utils/EBO.c.o: /home/ray/C/Projects/hitboxtests/src/gfx/utils/EBO.c
+CMakeFiles/hitboxtests.dir/src/gfx/utils/EBO.c.o: CMakeFiles/hitboxtests.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ray/C/Projects/hitboxtests/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/hitboxtests.dir/src/gfx/utils/EBO.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hitboxtests.dir/src/gfx/utils/EBO.c.o -MF CMakeFiles/hitboxtests.dir/src/gfx/utils/EBO.c.o.d -o CMakeFiles/hitboxtests.dir/src/gfx/utils/EBO.c.o -c /home/ray/C/Projects/hitboxtests/src/gfx/utils/EBO.c
+
+CMakeFiles/hitboxtests.dir/src/gfx/utils/EBO.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/hitboxtests.dir/src/gfx/utils/EBO.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ray/C/Projects/hitboxtests/src/gfx/utils/EBO.c > CMakeFiles/hitboxtests.dir/src/gfx/utils/EBO.c.i
+
+CMakeFiles/hitboxtests.dir/src/gfx/utils/EBO.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/hitboxtests.dir/src/gfx/utils/EBO.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ray/C/Projects/hitboxtests/src/gfx/utils/EBO.c -o CMakeFiles/hitboxtests.dir/src/gfx/utils/EBO.c.s
+
+CMakeFiles/hitboxtests.dir/src/gfx/camera/camera.c.o: CMakeFiles/hitboxtests.dir/flags.make
+CMakeFiles/hitboxtests.dir/src/gfx/camera/camera.c.o: /home/ray/C/Projects/hitboxtests/src/gfx/camera/camera.c
+CMakeFiles/hitboxtests.dir/src/gfx/camera/camera.c.o: CMakeFiles/hitboxtests.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ray/C/Projects/hitboxtests/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/hitboxtests.dir/src/gfx/camera/camera.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hitboxtests.dir/src/gfx/camera/camera.c.o -MF CMakeFiles/hitboxtests.dir/src/gfx/camera/camera.c.o.d -o CMakeFiles/hitboxtests.dir/src/gfx/camera/camera.c.o -c /home/ray/C/Projects/hitboxtests/src/gfx/camera/camera.c
+
+CMakeFiles/hitboxtests.dir/src/gfx/camera/camera.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/hitboxtests.dir/src/gfx/camera/camera.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ray/C/Projects/hitboxtests/src/gfx/camera/camera.c > CMakeFiles/hitboxtests.dir/src/gfx/camera/camera.c.i
+
+CMakeFiles/hitboxtests.dir/src/gfx/camera/camera.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/hitboxtests.dir/src/gfx/camera/camera.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ray/C/Projects/hitboxtests/src/gfx/camera/camera.c -o CMakeFiles/hitboxtests.dir/src/gfx/camera/camera.c.s
+
+CMakeFiles/hitboxtests.dir/src/gfx/shader/shader.c.o: CMakeFiles/hitboxtests.dir/flags.make
+CMakeFiles/hitboxtests.dir/src/gfx/shader/shader.c.o: /home/ray/C/Projects/hitboxtests/src/gfx/shader/shader.c
+CMakeFiles/hitboxtests.dir/src/gfx/shader/shader.c.o: CMakeFiles/hitboxtests.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ray/C/Projects/hitboxtests/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/hitboxtests.dir/src/gfx/shader/shader.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hitboxtests.dir/src/gfx/shader/shader.c.o -MF CMakeFiles/hitboxtests.dir/src/gfx/shader/shader.c.o.d -o CMakeFiles/hitboxtests.dir/src/gfx/shader/shader.c.o -c /home/ray/C/Projects/hitboxtests/src/gfx/shader/shader.c
+
+CMakeFiles/hitboxtests.dir/src/gfx/shader/shader.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/hitboxtests.dir/src/gfx/shader/shader.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ray/C/Projects/hitboxtests/src/gfx/shader/shader.c > CMakeFiles/hitboxtests.dir/src/gfx/shader/shader.c.i
+
+CMakeFiles/hitboxtests.dir/src/gfx/shader/shader.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/hitboxtests.dir/src/gfx/shader/shader.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ray/C/Projects/hitboxtests/src/gfx/shader/shader.c -o CMakeFiles/hitboxtests.dir/src/gfx/shader/shader.c.s
+
+CMakeFiles/hitboxtests.dir/src/gfx/window/window.c.o: CMakeFiles/hitboxtests.dir/flags.make
+CMakeFiles/hitboxtests.dir/src/gfx/window/window.c.o: /home/ray/C/Projects/hitboxtests/src/gfx/window/window.c
+CMakeFiles/hitboxtests.dir/src/gfx/window/window.c.o: CMakeFiles/hitboxtests.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ray/C/Projects/hitboxtests/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/hitboxtests.dir/src/gfx/window/window.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hitboxtests.dir/src/gfx/window/window.c.o -MF CMakeFiles/hitboxtests.dir/src/gfx/window/window.c.o.d -o CMakeFiles/hitboxtests.dir/src/gfx/window/window.c.o -c /home/ray/C/Projects/hitboxtests/src/gfx/window/window.c
+
+CMakeFiles/hitboxtests.dir/src/gfx/window/window.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/hitboxtests.dir/src/gfx/window/window.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ray/C/Projects/hitboxtests/src/gfx/window/window.c > CMakeFiles/hitboxtests.dir/src/gfx/window/window.c.i
+
+CMakeFiles/hitboxtests.dir/src/gfx/window/window.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/hitboxtests.dir/src/gfx/window/window.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ray/C/Projects/hitboxtests/src/gfx/window/window.c -o CMakeFiles/hitboxtests.dir/src/gfx/window/window.c.s
+
+CMakeFiles/hitboxtests.dir/src/gfx/texture/texture.c.o: CMakeFiles/hitboxtests.dir/flags.make
+CMakeFiles/hitboxtests.dir/src/gfx/texture/texture.c.o: /home/ray/C/Projects/hitboxtests/src/gfx/texture/texture.c
+CMakeFiles/hitboxtests.dir/src/gfx/texture/texture.c.o: CMakeFiles/hitboxtests.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ray/C/Projects/hitboxtests/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/hitboxtests.dir/src/gfx/texture/texture.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hitboxtests.dir/src/gfx/texture/texture.c.o -MF CMakeFiles/hitboxtests.dir/src/gfx/texture/texture.c.o.d -o CMakeFiles/hitboxtests.dir/src/gfx/texture/texture.c.o -c /home/ray/C/Projects/hitboxtests/src/gfx/texture/texture.c
+
+CMakeFiles/hitboxtests.dir/src/gfx/texture/texture.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/hitboxtests.dir/src/gfx/texture/texture.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ray/C/Projects/hitboxtests/src/gfx/texture/texture.c > CMakeFiles/hitboxtests.dir/src/gfx/texture/texture.c.i
+
+CMakeFiles/hitboxtests.dir/src/gfx/texture/texture.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/hitboxtests.dir/src/gfx/texture/texture.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ray/C/Projects/hitboxtests/src/gfx/texture/texture.c -o CMakeFiles/hitboxtests.dir/src/gfx/texture/texture.c.s
+
 # Object files for target hitboxtests
 hitboxtests_OBJECTS = \
 "CMakeFiles/hitboxtests.dir/src/main.c.o" \
 "CMakeFiles/hitboxtests.dir/src/glad.c.o" \
-"CMakeFiles/hitboxtests.dir/src/stbimage.c.o"
+"CMakeFiles/hitboxtests.dir/src/stbimage.c.o" \
+"CMakeFiles/hitboxtests.dir/src/gfx/utils/VAO.c.o" \
+"CMakeFiles/hitboxtests.dir/src/gfx/utils/VBO.c.o" \
+"CMakeFiles/hitboxtests.dir/src/gfx/utils/EBO.c.o" \
+"CMakeFiles/hitboxtests.dir/src/gfx/camera/camera.c.o" \
+"CMakeFiles/hitboxtests.dir/src/gfx/shader/shader.c.o" \
+"CMakeFiles/hitboxtests.dir/src/gfx/window/window.c.o" \
+"CMakeFiles/hitboxtests.dir/src/gfx/texture/texture.c.o"
 
 # External object files for target hitboxtests
 hitboxtests_EXTERNAL_OBJECTS =
@@ -126,10 +231,17 @@ hitboxtests_EXTERNAL_OBJECTS =
 hitboxtests: CMakeFiles/hitboxtests.dir/src/main.c.o
 hitboxtests: CMakeFiles/hitboxtests.dir/src/glad.c.o
 hitboxtests: CMakeFiles/hitboxtests.dir/src/stbimage.c.o
+hitboxtests: CMakeFiles/hitboxtests.dir/src/gfx/utils/VAO.c.o
+hitboxtests: CMakeFiles/hitboxtests.dir/src/gfx/utils/VBO.c.o
+hitboxtests: CMakeFiles/hitboxtests.dir/src/gfx/utils/EBO.c.o
+hitboxtests: CMakeFiles/hitboxtests.dir/src/gfx/camera/camera.c.o
+hitboxtests: CMakeFiles/hitboxtests.dir/src/gfx/shader/shader.c.o
+hitboxtests: CMakeFiles/hitboxtests.dir/src/gfx/window/window.c.o
+hitboxtests: CMakeFiles/hitboxtests.dir/src/gfx/texture/texture.c.o
 hitboxtests: CMakeFiles/hitboxtests.dir/build.make
 hitboxtests: CMakeFiles/hitboxtests.dir/compiler_depend.ts
 hitboxtests: CMakeFiles/hitboxtests.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/ray/C/Projects/hitboxtests/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable hitboxtests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/ray/C/Projects/hitboxtests/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking C executable hitboxtests"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/hitboxtests.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

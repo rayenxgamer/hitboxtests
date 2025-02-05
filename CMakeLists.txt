@@ -9,6 +9,13 @@ add_executable(hitboxtests
     src/main.c
     src/glad.c
     src/stbimage.c
+    src/gfx/utils/VAO.c
+    src/gfx/utils/VBO.c
+    src/gfx/utils/EBO.c
+    src/gfx/camera/camera.c
+    src/gfx/shader/shader.c
+    src/gfx/window/window.c
+    src/gfx/texture/texture.c
 )
 
 target_include_directories(hitboxtests PUBLIC

@@ -16,5 +16,47 @@
   "command": "/usr/bin/cc  -I/home/ray/C/Projects/hitboxtests/lib -I/home/ray/C/Projects/hitboxtests/src/gfx  -o CMakeFiles/hitboxtests.dir/src/stbimage.c.o -c /home/ray/C/Projects/hitboxtests/src/stbimage.c",
   "file": "/home/ray/C/Projects/hitboxtests/src/stbimage.c",
   "output": "CMakeFiles/hitboxtests.dir/src/stbimage.c.o"
+},
+{
+  "directory": "/home/ray/C/Projects/hitboxtests/build",
+  "command": "/usr/bin/cc  -I/home/ray/C/Projects/hitboxtests/lib -I/home/ray/C/Projects/hitboxtests/src/gfx  -o CMakeFiles/hitboxtests.dir/src/gfx/utils/VAO.c.o -c /home/ray/C/Projects/hitboxtests/src/gfx/utils/VAO.c",
+  "file": "/home/ray/C/Projects/hitboxtests/src/gfx/utils/VAO.c",
+  "output": "CMakeFiles/hitboxtests.dir/src/gfx/utils/VAO.c.o"
+},
+{
+  "directory": "/home/ray/C/Projects/hitboxtests/build",
+  "command": "/usr/bin/cc  -I/home/ray/C/Projects/hitboxtests/lib -I/home/ray/C/Projects/hitboxtests/src/gfx  -o CMakeFiles/hitboxtests.dir/src/gfx/utils/VBO.c.o -c /home/ray/C/Projects/hitboxtests/src/gfx/utils/VBO.c",
+  "file": "/home/ray/C/Projects/hitboxtests/src/gfx/utils/VBO.c",
+  "output": "CMakeFiles/hitboxtests.dir/src/gfx/utils/VBO.c.o"
+},
+{
+  "directory": "/home/ray/C/Projects/hitboxtests/build",
+  "command": "/usr/bin/cc  -I/home/ray/C/Projects/hitboxtests/lib -I/home/ray/C/Projects/hitboxtests/src/gfx  -o CMakeFiles/hitboxtests.dir/src/gfx/utils/EBO.c.o -c /home/ray/C/Projects/hitboxtests/src/gfx/utils/EBO.c",
+  "file": "/home/ray/C/Projects/hitboxtests/src/gfx/utils/EBO.c",
+  "output": "CMakeFiles/hitboxtests.dir/src/gfx/utils/EBO.c.o"
+},
+{
+  "directory": "/home/ray/C/Projects/hitboxtests/build",
+  "command": "/usr/bin/cc  -I/home/ray/C/Projects/hitboxtests/lib -I/home/ray/C/Projects/hitboxtests/src/gfx  -o CMakeFiles/hitboxtests.dir/src/gfx/camera/camera.c.o -c /home/ray/C/Projects/hitboxtests/src/gfx/camera/camera.c",
+  "file": "/home/ray/C/Projects/hitboxtests/src/gfx/camera/camera.c",
+  "output": "CMakeFiles/hitboxtests.dir/src/gfx/camera/camera.c.o"
+},
+{
+  "directory": "/home/ray/C/Projects/hitboxtests/build",
+  "command": "/usr/bin/cc  -I/home/ray/C/Projects/hitboxtests/lib -I/home/ray/C/Projects/hitboxtests/src/gfx  -o CMakeFiles/hitboxtests.dir/src/gfx/shader/shader.c.o -c /home/ray/C/Projects/hitboxtests/src/gfx/shader/shader.c",
+  "file": "/home/ray/C/Projects/hitboxtests/src/gfx/shader/shader.c",
+  "output": "CMakeFiles/hitboxtests.dir/src/gfx/shader/shader.c.o"
+},
+{
+  "directory": "/home/ray/C/Projects/hitboxtests/build",
+  "command": "/usr/bin/cc  -I/home/ray/C/Projects/hitboxtests/lib -I/home/ray/C/Projects/hitboxtests/src/gfx  -o CMakeFiles/hitboxtests.dir/src/gfx/window/window.c.o -c /home/ray/C/Projects/hitboxtests/src/gfx/window/window.c",
+  "file": "/home/ray/C/Projects/hitboxtests/src/gfx/window/window.c",
+  "output": "CMakeFiles/hitboxtests.dir/src/gfx/window/window.c.o"
+},
+{
+  "directory": "/home/ray/C/Projects/hitboxtests/build",
+  "command": "/usr/bin/cc  -I/home/ray/C/Projects/hitboxtests/lib -I/home/ray/C/Projects/hitboxtests/src/gfx  -o CMakeFiles/hitboxtests.dir/src/gfx/texture/texture.c.o -c /home/ray/C/Projects/hitboxtests/src/gfx/texture/texture.c",
+  "file": "/home/ray/C/Projects/hitboxtests/src/gfx/texture/texture.c",
+  "output": "CMakeFiles/hitboxtests.dir/src/gfx/texture/texture.c.o"
 }
 ]
