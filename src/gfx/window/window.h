@@ -1,9 +1,9 @@
 #pragma once
 
-#include <stdio.h>
 #include <glad/glad.h>
 #include <glfw/glfw3.h>
 #include <stdbool.h>
+#include <stdio.h>
 
 struct window{
     int height;
