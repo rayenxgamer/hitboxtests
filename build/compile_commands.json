@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/ray/C/Projects/hitboxtests/build",
+  "command": "/usr/bin/cc  -I/home/ray/C/Projects/hitboxtests/lib -I/home/ray/C/Projects/hitboxtests/src/gfx  -o CMakeFiles/hitboxtests.dir/src/main.c.o -c /home/ray/C/Projects/hitboxtests/src/main.c",
+  "file": "/home/ray/C/Projects/hitboxtests/src/main.c",
+  "output": "CMakeFiles/hitboxtests.dir/src/main.c.o"
+},
+{
+  "directory": "/home/ray/C/Projects/hitboxtests/build",
+  "command": "/usr/bin/cc  -I/home/ray/C/Projects/hitboxtests/lib -I/home/ray/C/Projects/hitboxtests/src/gfx  -o CMakeFiles/hitboxtests.dir/src/glad.c.o -c /home/ray/C/Projects/hitboxtests/src/glad.c",
+  "file": "/home/ray/C/Projects/hitboxtests/src/glad.c",
+  "output": "CMakeFiles/hitboxtests.dir/src/glad.c.o"
+},
+{
+  "directory": "/home/ray/C/Projects/hitboxtests/build",
+  "command": "/usr/bin/cc  -I/home/ray/C/Projects/hitboxtests/lib -I/home/ray/C/Projects/hitboxtests/src/gfx  -o CMakeFiles/hitboxtests.dir/src/stbimage.c.o -c /home/ray/C/Projects/hitboxtests/src/stbimage.c",
+  "file": "/home/ray/C/Projects/hitboxtests/src/stbimage.c",
+  "output": "CMakeFiles/hitboxtests.dir/src/stbimage.c.o"
+}
+]

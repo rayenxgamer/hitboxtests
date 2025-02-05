@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/hitboxtests.dir/link.d CMakeFiles/hitboxtests.dir/src/main.c.o CMakeFiles/hitboxtests.dir/src/glad.c.o CMakeFiles/hitboxtests.dir/src/stbimage.c.o -o hitboxtests   -L/home/ray/C/Projects/hitboxtests/lib/glfw/libglfw3.a  -Wl,-rpath,/home/ray/C/Projects/hitboxtests/lib/glfw/libglfw3.a -lglfw -lm -ldl -lpthread

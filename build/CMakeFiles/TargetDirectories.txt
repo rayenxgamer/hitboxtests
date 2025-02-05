@@ -1,0 +1,3 @@
+/home/ray/C/Projects/hitboxtests/build/CMakeFiles/hitboxtests.dir
+/home/ray/C/Projects/hitboxtests/build/CMakeFiles/edit_cache.dir
+/home/ray/C/Projects/hitboxtests/build/CMakeFiles/rebuild_cache.dir
