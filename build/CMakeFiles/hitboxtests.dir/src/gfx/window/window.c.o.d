@@ -32,6 +32,7 @@ CMakeFiles/hitboxtests.dir/src/gfx/window/window.c.o: \
  /usr/include/stdint.h /usr/include/bits/wchar.h \
  /usr/include/bits/stdint-uintn.h /usr/include/bits/stdint-least.h \
  /home/ray/C/Projects/hitboxtests/lib/glfw/glfw3.h \
+ /home/ray/C/Projects/hitboxtests/lib/glfw/glfw3native.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdbool.h \
  /usr/include/stdio.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \

@@ -2,6 +2,7 @@
 
 #include <glad/glad.h>
 #include <glfw/glfw3.h>
+#include <glfw/glfw3native.h>
 #include <stdbool.h>
 #include <stdio.h>
 

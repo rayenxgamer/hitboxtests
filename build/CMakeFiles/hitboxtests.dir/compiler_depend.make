@@ -526,6 +526,7 @@ CMakeFiles/hitboxtests.dir/src/gfx/utils/VBO.c.o: /home/ray/C/Projects/hitboxtes
 CMakeFiles/hitboxtests.dir/src/gfx/window/window.c.o: /home/ray/C/Projects/hitboxtests/src/gfx/window/window.c \
   /home/ray/C/Projects/hitboxtests/lib/glad/glad.h \
   /home/ray/C/Projects/hitboxtests/lib/glfw/glfw3.h \
+  /home/ray/C/Projects/hitboxtests/lib/glfw/glfw3native.h \
   /home/ray/C/Projects/hitboxtests/src/gfx/window/window.h \
   /usr/include/KHR/khrplatform.h \
   /usr/include/alloca.h \
@@ -725,7 +726,14 @@ CMakeFiles/hitboxtests.dir/src/main.c.o: /home/ray/C/Projects/hitboxtests/src/ma
   /home/ray/C/Projects/hitboxtests/lib/cglm/vec4.h \
   /home/ray/C/Projects/hitboxtests/lib/glad/glad.h \
   /home/ray/C/Projects/hitboxtests/lib/glfw/glfw3.h \
+  /home/ray/C/Projects/hitboxtests/lib/glfw/glfw3native.h \
+  /home/ray/C/Projects/hitboxtests/lib/stb_image/stb_image.h \
   /home/ray/C/Projects/hitboxtests/src/gfx/shader/shader.h \
+  /home/ray/C/Projects/hitboxtests/src/gfx/texture/texture.h \
+  /home/ray/C/Projects/hitboxtests/src/gfx/utils/EBO.h \
+  /home/ray/C/Projects/hitboxtests/src/gfx/utils/VAO.h \
+  /home/ray/C/Projects/hitboxtests/src/gfx/utils/VBO.h \
+  /home/ray/C/Projects/hitboxtests/src/gfx/utils/types.h \
   /home/ray/C/Projects/hitboxtests/src/gfx/window/window.h \
   /usr/include/KHR/khrplatform.h \
   /usr/include/alloca.h \
@@ -982,6 +990,8 @@ CMakeFiles/hitboxtests.dir/src/gfx/utils/EBO.c.o:
 
 /home/ray/C/Projects/hitboxtests/src/glad.c:
 
+/home/ray/C/Projects/hitboxtests/lib/glfw/glfw3native.h:
+
 /home/ray/C/Projects/hitboxtests/src/gfx/window/window.c:
 
 /home/ray/C/Projects/hitboxtests/src/gfx/utils/VBO.h:
@@ -1145,6 +1155,8 @@ CMakeFiles/hitboxtests.dir/src/glad.c.o:
 /home/ray/C/Projects/hitboxtests/lib/cglm/simd/sse2/mat2.h:
 
 /home/ray/C/Projects/hitboxtests/lib/cglm/vec4.h:
+
+/home/ray/C/Projects/hitboxtests/src/gfx/utils/types.h:
 
 /home/ray/C/Projects/hitboxtests/lib/cglm/mat2x4.h:
 
